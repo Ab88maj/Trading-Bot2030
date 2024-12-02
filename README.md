@@ -21,4 +21,4 @@ This project is an automated trading bot using Binance API and GitHub Actions.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/trading-bot.git
+   git clone https://github.com/<Ab88maj>/trading-bot.git
