@@ -1,1 +1,4 @@
+mkdir trading-bot
+cd trading-bot
+npm init -y
 
