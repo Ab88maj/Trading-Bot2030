@@ -26,10 +26,3 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-
-      - name: Run Trading Bot
-        env:
-          API_KEY: ${{ secrets.BINANCE_API_KEY }}
-          API_SECRET: ${{ secrets.BINANCE_API_SECRET }}
-        run: |
-          node bot.js
